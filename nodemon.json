@@ -1,0 +1,6 @@
+{
+  "watch": [".env", "src"],
+  "ext": "ts,js,json",
+  "ignore": ["dist"],
+  "exec": "nest start -b swc -w --type-check"
+}

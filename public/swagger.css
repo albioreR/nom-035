@@ -1,0 +1,86 @@
+/* Fondo oscuro */
+body {
+  background-color: #2e2e2e !important;
+  color: #ffffff !important;
+}
+
+.swagger-ui {
+  color: #ffffff !important;
+}
+
+/* Color de texto en las secciones principales */
+.swagger-ui .topbar,
+.swagger-ui .info,
+.swagger-ui .opblock-summary,
+.swagger-ui .opblock-description-wrapper {
+  background-color: #2e2e2e !important;
+  color: #ffffff !important;
+}
+
+/* Texto en las descripciones */
+.swagger-ui .opblock-summary-description,
+.swagger-ui .opblock-summary-path,
+.swagger-ui .parameter__name,
+.swagger-ui .response-col_status,
+.swagger-ui .response-col_description,
+.swagger-ui .property-row {
+  color: #ffffff !important;
+}
+
+/* Color de los botones */
+.swagger-ui .btn,
+.swagger-ui .btn-primary {
+  background-color: #4a4a4a !important;
+  color: #ffffff !important;
+  border: 1px solid #ffffff !important;
+}
+
+/* Color de los cuadros de modelos */
+.swagger-ui .model,
+.swagger-ui .model-title,
+.swagger-ui .model-box {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+}
+
+/* Sección de respuestas y parámetros */
+.swagger-ui .responses-inner,
+.swagger-ui .response-col_description,
+.swagger-ui .parameter__value {
+  background-color: #444444 !important;
+  color: #ffffff !important;
+}
+
+/* Código de ejemplos */
+.swagger-ui .microlight {
+  background-color: #333333 !important;
+  color: #ffffff !important;
+}
+
+/* Links y selectores de pestañas */
+.swagger-ui .tab,
+.swagger-ui .tablinks,
+.swagger-ui .parameter__type {
+  color: #ffffff !important;
+}
+
+.swagger-ui a {
+  color: #5ba9e6 !important; /* Link en azul claro */
+}
+
+.scheme-container {
+  background-color: #2e2e2e !important;
+  color: #ffffff !important;
+}
+
+.col_header .parameters-col_name {
+  color: #ffffff !important;
+}
+
+h2 {
+  color: #ffffff !important;
+}
+
+.renderedMarkdown p {
+  color: #ffffff !important;
+}

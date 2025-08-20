@@ -1,0 +1,35 @@
+{
+  "deepscan.enable": true,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#1e4720",
+    "activityBar.background": "#1e4720",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#6762bd",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#1e4720",
+    "statusBar.background": "#0f2310",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#1e4720",
+    "statusBarItem.remoteBackground": "#0f2310",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#0f2310",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0f231099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#0f2310",
+  "conventionalCommits.scopes": [
+    "config",
+    "swagger",
+    "decorators",
+    "filters",
+    "catalogs",
+    "contracts",
+    "general",
+    "prisma",
+    "sections"
+  ],
+  "cSpell.language": "en,es-ES"
+}
